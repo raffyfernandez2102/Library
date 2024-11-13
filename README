@@ -1,4 +1,4 @@
 1. Download both folders 
 2. Boot up XAMPP
 3. Open PHPMYadmin import the library.sql file into a database 
-4. localhost/(foldername) select .php file as there is no index file
+4. localhost/(foldername) select .php file of which page you want to open as there is no index file
